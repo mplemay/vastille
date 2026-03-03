@@ -1,0 +1,13 @@
+{
+  "name": "Vastille",
+  "owner": {
+    "name": "Matt LeMay"
+  },
+  "plugins": [
+    {
+      "name": "review-plugin",
+      "source": "./plugins/warsaw",
+      "description": "Automated sourcing"
+    }
+  ]
+}
