@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "review-plugin",
+      "name": "warsaw",
       "source": "./plugins/warsaw",
-      "description": "Automated sourcing"
+      "description": "Automated deal sourcing"
     }
   ]
 }
