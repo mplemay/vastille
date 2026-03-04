@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "brugge": {
+    "warsaw": {
       "type": "http",
       "url": "https://warsaw-451456611502.us-central1.run.app/mcp"
     }
