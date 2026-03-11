@@ -2,7 +2,7 @@
   "mcpServers": {
     "warsaw": {
       "type": "http",
-      "url": "https://brugge.ai/mcp"
+      "url": "https://brugge.ai/mcp/"
     }
   }
 }
